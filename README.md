@@ -64,7 +64,8 @@ streamlit run streamlit_app.py
 ```
 
 ### **Screenshots**
-
+![Airport Metrics](https://github.com/Kusumareddy28/NetworkX--Flight-Network-Resilience-using-RAG/blob/main/images/image1.PNG)
+![Centrality Metrics](https://github.com/Kusumareddy28/NetworkX--Flight-Network-Resilience-using-RAG/blob/main/images/image2.PNG)
 
 ### **4. Future Enhancements**
 - **Real‐World Weather & Delay Data**  
